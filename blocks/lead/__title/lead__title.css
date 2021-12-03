@@ -3,9 +3,19 @@
   font-size: 96px;
   font-weight: 900;
   font-style: normal;
-  line-height: 100px;
+  line-height: 1.04;
   margin: 0;
   padding: 0;
   text-align: center;
   text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width:767px) {
+  .lead__title {
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.1;
+    max-width: 288px;
+  }
 }
