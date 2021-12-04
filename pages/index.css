@@ -3,7 +3,6 @@
 @import url(../blocks/page/page.css);
 /*cover*/
 @import url(../blocks/cover/__background/cover__background.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/cover.css);
@@ -22,6 +21,7 @@
 @import url(../blocks/header/__link/_active/header__link_active.css);
 /*intro*/
 @import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__article/intro__article.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list/list_span-accent/intro__list_span-accent.css);
 @import url(../blocks/intro/__text/intro__text.css);
