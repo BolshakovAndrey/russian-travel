@@ -27,3 +27,9 @@
     padding-right: 0;
   }
 }
+
+@media screen and (max-width: 568px) {
+  .page {
+    padding: 16px 0 24px;
+  }
+}
