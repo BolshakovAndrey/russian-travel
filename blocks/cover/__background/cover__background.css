@@ -4,6 +4,7 @@
   text-decoration: none;
   box-sizing: border-box;
   background-image: url(/images/cover-trains.jpg);
+  background-position: center;
   background-size: cover;
   display: flex;
   flex-direction: column;
