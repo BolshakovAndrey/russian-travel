@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    width: 100%;
+    width: calc(100% - 2 * 48px);
     margin: 0 auto;
     justify-content: space-between;
 }
@@ -10,7 +10,8 @@
         width: calc(100% - 2 * 48px);
     }
 
-}@media screen and (max-width: 984px) {
+}
+@media screen and (max-width: 984px) {
     .header {
         width: calc(100% - 2 * 24px);
     }

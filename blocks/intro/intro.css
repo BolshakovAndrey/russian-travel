@@ -4,13 +4,13 @@
   padding: 92px 0 0 148px;
 }
 
-@media screen and (min-width: 1279px) {
+@media screen and (max-width: 1140px) {
   .intro {
     width: calc(100% - 2 * 48px);
   }
 }
 
-@media screen and (min-width: 1023px) {
+@media screen and (max-width: 984px) {
   .intro {
     width: calc(100% - 2 * 48px);
     margin: auto;
