@@ -8,5 +8,6 @@
 @media screen and (max-width: 564px) {
   .footer__items {
     flex-direction: column;
+    align-items: flex-start;
   }
 }
