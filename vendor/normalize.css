@@ -70,7 +70,7 @@ pre {
    ========================================================================== */
 
 /**
- * Remove the gray background on _active links in IE 10.
+ * Remove the gray background on active links in IE 10.
  */
 
 a {
@@ -85,7 +85,7 @@ a {
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
-  /*text-decoration: underline dotted; !* 2 *!*/
+  text-decoration: underline dotted; /* 2 */
 }
 
 /**
