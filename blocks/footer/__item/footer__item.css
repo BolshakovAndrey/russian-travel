@@ -1,6 +1,6 @@
 .footer__item {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   text-align: center;
   margin-right: 18px;
 }

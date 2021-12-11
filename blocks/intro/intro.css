@@ -12,14 +12,12 @@
 @media screen and (max-width: 984px) {
   .intro {
     width: calc(100% - 2 * 24px);
-    margin: auto;
   }
 }
 
 @media screen and (max-width: 568px) {
   .intro {
     width: calc(100% - 2 * 16px);
-    margin: auto;
   }
 }
 
